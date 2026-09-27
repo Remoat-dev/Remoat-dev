@@ -1,52 +1,42 @@
-<!-- Remoat-dev Organization Profile -->
-
 <div align="center">
 
-  <img
-    src="https://avatars.githubusercontent.com/u/328782791?v=4"
-    width="90"
-    alt="Remoat-dev"
-  />
+<img
+  src="https://avatars.githubusercontent.com/u/328782791?v=4"
+  width="90"
+  alt="Remoat-dev"
+/>
 
-  <h1>Remoat-dev</h1>
+# Remoat-dev
 
-  <p>
-    Tools and infrastructure for modern web development, testing, and debugging.
-  </p>
+Building tools for developers, testers, and engineering teams.
 
-  <p>
-    <a href="https://github.com/Remoat-dev">
-      github.com/Remoat-dev
-    </a>
-  </p>
+[Website](https://remoat.dev) · [Repositories](https://github.com/Remoat-dev)
 
 </div>
 
 ---
 
-## 🚀 Projects
+### What we build
 
-Our open-source projects focused on:
+🧪 **Testing**  
+Tools that simplify testing and QA workflows.
 
-- 🧪 Testing & QA
-- 🔧 Developer tooling
-- 🌐 Web debugging
-- 🔐 Security & access control
-- 🤖 Automation
-- 🔌 MCP & integrations
+🔧 **Developer Tools**  
+Practical utilities for modern development teams.
 
----
+🌐 **Debugging**  
+Tools for understanding and debugging web applications.
 
-## 📦 Repositories
+🤖 **Automation**  
+Automating repetitive engineering workflows.
 
-Explore all our public repositories:
-
-👉 **[github.com/Remoat-dev](https://github.com/Remoat-dev)**
+🔐 **Security**  
+Tools around access, debugging, and application security.
 
 ---
 
-## 🌐 Remoat
+<div align="center">
 
-**Remote debugging infrastructure for developers and engineering teams.**
+**Build. Debug. Ship.**
 
-[Visit remoat.dev](https://remoat.dev)
+</div>
